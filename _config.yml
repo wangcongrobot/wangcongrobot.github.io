@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cong Wang / Site Title"
+title                    : "Cong Wang"
 title_separator          : "-"
 name                     : &name "Cong Wang"
-description              : &description "Ph.D. student, Chinese Academy of Science"
+description              : &description "Ph.D. Student, Shenyang Institute of Automation, the Chinese Academy of Sciences (CAS)"
 url                      : https://wangcongrobot.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangcongrobot/wangcongrobot.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Cong Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Student, Shenyang Institute of Automation, the Chinese Academy of Sciences (CAS)"
   location         : "Edinburgh, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
